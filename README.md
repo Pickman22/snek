@@ -21,5 +21,6 @@ This game has only been tested on a Macbook Air with M2 processor.
 Although thanks to Raylib it should be pretty simple to port to any
 other platform.
 
-Game screenshot:
+Snek Gameplay:
+![Snek game gameplay](https://github.com/Pickman22/snek/blob/master/snek_game.gif)
 
