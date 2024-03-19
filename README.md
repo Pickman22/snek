@@ -22,5 +22,6 @@ Although thanks to Raylib it should be pretty simple to port to any
 other platform.
 
 Snek Gameplay:
+
 ![Snek game gameplay](https://github.com/Pickman22/snek/blob/master/snek_game.gif)
 
