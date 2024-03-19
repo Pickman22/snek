@@ -1,0 +1,3 @@
+*.o
+snek
+compile_flags.txt
